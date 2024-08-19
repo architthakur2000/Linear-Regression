@@ -1,0 +1,33 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment specific
+.env
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+*.egg-info/
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+
+# MacOS specific
+.DS_Store
+
